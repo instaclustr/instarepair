@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+# Maven build artifacts
+target/
+dependency-reduced-pom.xml
+
 # Log file
 *.log
 
