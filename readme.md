@@ -69,3 +69,5 @@ comparison just send a mutation with the correct version of the row to nodes
 without it. Additionally this application supports suspending and resuming the
 repair. It can also handle nodes going down. This makes it more robust then
 even tools such as Cassandra reaper.
+
+Please see https://www.instaclustr.com/support/documentation/announcements/instaclustr-open-source-project-status/ for Instaclustr support status of this project.
